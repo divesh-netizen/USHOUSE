@@ -1,5 +1,5 @@
 # US House Price Analysis
- A data science model that explains how key supply-demand factors that influence US home prices impacted home prices over the last 20 years. Using the S&P Case-Schiller Home Price Index as a proxy for home prices: fred.stlouisfed.org/series/CSUSHPISA.
+ A data science model that explains how key supply-demand factors that influence US home prices impacted home prices over the last 20 years. Using the S&P Case-Schiller Home Price Index as a proxy for home prices
 
  # Step to check this Project and run on Local
   - I have Structured all insight at one place using Streamlit
