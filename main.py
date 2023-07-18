@@ -603,7 +603,7 @@ html_string = '''<html>
             </tr>
             <tr>
                 <td>
-                    <a href="www.opendoor.com">opendoor.com</a>
+                    <a href="https://www.opendoor.com/">opendoor.com</a>
                 </td>
             </tr>
             <tr>
