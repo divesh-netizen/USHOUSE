@@ -472,7 +472,7 @@ st.dataframe(desc)
 
 
 
-corr = df.corr()
+corr = df[df.columns[1:]].corr()
 corr_inf = pd.DataFrame(corr.CSUSHPISA)
 
 st.header("Correlation Analysis")
